@@ -20,7 +20,7 @@ Trabalhei anos em **compras na indústria de moldes**, formei-me no **Cenfim** e
 
 <table>
 <tr>
-<td width="100%">
+<td width="60%">
 
 ### ✨ Se consegues imaginar, eu imprimo! ✨
 
@@ -37,8 +37,8 @@ Quando não estou a programar, a minha **Bambu Lab P1S** está a trabalhar. Cama
 
 **👉 Espreita os trabalhos e faz a tua encomenda:**
 
-[<img width="80" height="80" alt="insta" src="https://github.com/user-attachments/assets/1ce39a18-628b-4444-a684-ca7c2ce4dea6" />](https://www.instagram.com/cris3d.print/)
-[<img width="80" height="80" alt="facebook" src="https://github.com/user-attachments/assets/2d4fc540-d2d6-49e3-9715-e355fcc3c05b" />](https://www.facebook.com/CRIS3DPRINT)
+[<img width="60" height="60" alt="insta" src="https://github.com/user-attachments/assets/1ce39a18-628b-4444-a684-ca7c2ce4dea6" />](https://www.instagram.com/cris3d.print/)
+[<img width="60" height="60" alt="facebook" src="https://github.com/user-attachments/assets/2d4fc540-d2d6-49e3-9715-e355fcc3c05b" />](https://www.facebook.com/CRIS3DPRINT)
 
 </td>
 </tr>
@@ -53,9 +53,7 @@ Quando não estou a programar, a minha **Bambu Lab P1S** está a trabalhar. Cama
 <img width="30" height="30" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img width="30" height="30" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img width="30" height="30" alt="JavaScript" title="JavaScript (a aprender)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="30" height="30" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img width="30" height="30" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 **Maker / 3D**
-
-<img width="30" height="30" alt="Bambu Lab P1S" title="Bambu Lab P1S" src="COLA_AQUI_O_LINK_DO_LOGO_BAMBU" /><img width="30" height="30" alt="Impressão 3D" title="Impressão 3D (FDM)" src="https://img.icons8.com/color/96/3d-printer.png" /><img width="30" height="30" alt="Desenho de Moldes" title="Desenho de Moldes" src="https://img.icons8.com/color/96/drafting-compass.png" />
----
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b86f1bba-c63e-49d4-bc9d-e1c03eac6fe3" /><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4bb5d6f5-1ed4-4f07-b6ca-f978564a2eb2" /><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/cf44af48-cc4d-446d-b616-753f26875555" />
 
 ## 🚀 Projetos em destaque
 
@@ -69,7 +67,7 @@ Quando não estou a programar, a minha **Bambu Lab P1S** está a trabalhar. Cama
 ## 📫 Fala comigo
 
 <a href="mailto:ac.marquespereira@gmail.com"><img width="60" height="60" alt="gmail" src="https://img.icons8.com/color/96/gmail-new.png" /></a>
-<a href="https://linkedin.com/in/O_TEU_LINKEDIN"><img width="60" height="60" alt="linkedin" src="https://img.icons8.com/color/96/linkedin.png" /></a>
+<a href="https://www.linkedin.com/in/ana-marques-172477127"><img width="60" height="60" alt="linkedin" src="https://img.icons8.com/color/96/linkedin.png" /></a>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=6&section=footer" width="100%" />
