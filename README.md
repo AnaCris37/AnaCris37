@@ -48,30 +48,38 @@ Quando não estou a programar, a minha **Bambu Lab P1S** está a trabalhar. Cama
 
 ## 🛠️ Ferramentas
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
-<td align="center" width="70%">
-  
-**Desenvolvimento**
-
-<img width="50" height="50" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="50" height="50" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="50" height="50" alt="JavaScript" title="JavaScript (a aprender)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="50" height="50" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="50" height="50" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-</td>
-<td align="center" width="70%">
-  
-**Maker / 3D**
-
-<img width="50" height="50" alt="Fusion 360" title="Fusion 360" src="https://github.com/user-attachments/assets/b86f1bba-c63e-49d4-bc9d-e1c03eac6fe3" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/380c47cf-e468-4c54-b3f9-86cd4e3587a0" />
-<img width="50" height="50" alt="SolidWorks" title="SolidWorks" src="https://github.com/user-attachments/assets/4bb5d6f5-1ed4-4f07-b6ca-f978564a2eb2" />
-
+<th colspan="5">Desenvolvimento</th>
+<th colspan="3">Maker / 3D</th>
+</tr>
+<tr>
+<td align="center"><img width="45" height="45" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
+<td align="center"><img width="45" height="45" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
+<td align="center"><img width="45" height="45" alt="JavaScript" title="JavaScript (a aprender)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
+<td align="center"><img width="45" height="45" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
+<td align="center"><img width="45" height="45" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
+<td align="center"><img width="45" height="45" alt="Fusion 360" title="Fusion 360" src="https://github.com/user-attachments/assets/b86f1bba-c63e-49d4-bc9d-e1c03eac6fe3" /></td>
+<td align="center"><img width="45" height="45" alt="SolidWorks" title="SolidWorks" src="https://github.com/user-attachments/assets/4bb5d6f5-1ed4-4f07-b6ca-f978564a2eb2" /></td>
+<td align="center"><img width="45" height="45" alt="Solid Edge" title="Solid Edge" src="https://github.com/user-attachments/assets/45b99444-7d9b-4f31-8efd-1f07ed988ab0" />
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+
+## 🚀 Projetos em destaque
+
+| | Projeto | O que faz |
+|---|---|---|
+| 🌐 | [Primeira página HTML](https://github.com/O_TEU_USER/NOME_DO_REPOSITORIO) | Trabalho da UC de frontend web |
+| 🖨️ | *Em breve* | Um projeto que junte código e impressão 3D 👀 |
+
 ---
 
 ## 📫 Fala comigo
