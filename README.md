@@ -25,15 +25,45 @@ Trabalhei anos em **compras na indústria de moldes**, formei-me no **Cenfim** e
 ### ✨ Se consegues imaginar, eu imprimo! ✨
 
 Quando não estou a programar, a minha **Bambu Lab P1S** está a trabalhar. Camada a camada, transformo ideias em peças que vão direto para a cozinha, para a loja ou para as mãos de alguém especial. 🧡
+<table align="center">
+<tr>
+<th></th>
+<th>O que faço</th>
+<th>Para quem</th>
+</tr>
+<tr>
+<td align="center">🍪</td>
+<td><b>Cortadores de biscoitos e de rissóis</b><br><sub>Temáticos, personalizados, com dobradiça</sub></td>
+<td>Festas, batizados, aniversários, Halloween e Natal</td>
+</tr>
+<tr>
+<td align="center">🔖</td>
+<td><b>Carimbos de bolachas com o teu logo</b></td>
+<td>Marcas, pastelarias, artesãos e pequenos negócios</td>
+</tr>
+<tr>
+<td align="center">🎄</td>
+<td><b>Bolas de Natal personalizadas e caixas</b></td>
+<td>Prendas com nome, para família e amigos</td>
+</tr>
+<tr>
+<td align="center">📚</td>
+<td><b>Porta-canetas e marcadores de página</b></td>
+<td>Para quem gosta de ler, estudar ou ter a secretária arrumada</td>
+</tr>
+<tr>
+<td align="center">🔑</td>
+<td><b>Porta-chaves</b><br><sub>Motas, capacetes, pesos de ginásio</sub></td>
+<td>Motards, desportistas e colecionadores</td>
+</tr>
+<tr>
+<td align="center">🎁</td>
+<td><b>Peças por medida</b></td>
+<td>Prendas únicas que não se compram em lado nenhum</td>
+</tr>
+</table>
 
-| | O que faço | Para quem |
-|:---:|---|---|
-| 🥟 | **Cortadores de rissóis** personalizados | Para quem quer rissóis perfeitos, todos iguais e com estilo |
-| 🍪 | **Cortadores de biscoitos** com o formato que quiseres | Festas, batizados, aniversários e Natal 🎄 |
-| 🔖 | **Carimbos de bolachas com o teu logo** | Marcas, pastelarias, artesãos e pequenos negócios |
-| 🎁 | **Peças por medida** | Prendas únicas que não se compram em lado nenhum |
-
-> 💭 *Tens uma ideia na cabeça e não a encontras à venda em lado nenhum? Fala comigo: do desenho à peça final, faço-a à tua medida.*
+ 💭 *Tens uma ideia na cabeça e não a encontras à venda em lado nenhum? Fala comigo: do desenho à peça final, faço-a à tua medida.*
 
 **👉 Espreita os trabalhos e faz a tua encomenda:**
 
