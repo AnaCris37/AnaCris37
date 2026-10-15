@@ -16,7 +16,7 @@ Trabalhei anos em **compras na indústria de moldes**, formei-me no **Cenfim** e
 
 ---
 
-## 🖨️ Cris3D · Impressão 3D
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/7f8a791a-4e93-4e58-89c4-9af5ccca447f" /> CRIS3D · Impressão 3D
 
 <table>
 <tr>
