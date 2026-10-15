@@ -69,7 +69,6 @@ Quando não estou a programar, a minha **Bambu Lab P1S** está a trabalhar. Cama
 
 [<img width="60" height="60" alt="insta" src="https://github.com/user-attachments/assets/1ce39a18-628b-4444-a684-ca7c2ce4dea6" />](https://www.instagram.com/cris3d.print/)
 [<img width="60" height="60" alt="facebook" src="https://github.com/user-attachments/assets/2d4fc540-d2d6-49e3-9715-e355fcc3c05b" />](https://www.facebook.com/CRIS3DPRINT)
-
 </td>
 </tr>
 </table>
