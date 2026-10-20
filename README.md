@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=120&section=header&text=Ana%20Marques&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Do%20molde%20ao%20código%20🧩%20→%20💻&descSize=16&descAlignY=72" width="100%" />
@@ -32,29 +31,34 @@ Quando não estou a programar, a minha **Bambu Lab P1S** está a trabalhar. Cama
 <th>Para quem</th>
 </tr>
 <tr>
-<td align="center">🍪</td>
-<td><b>Cortadores de biscoitos e de rissóis</b><br><sub>Temáticos, personalizados, com dobradiça</sub></td>
-<td>Festas, batizados, aniversários, Halloween e Natal</td>
+<td align="center">🕰️</td>
+<td><b>Relógios e calendários perpétuos</b><br><sub>Com o teu logótipo, nome ou frase</sub></td>
+<td>Motards, empresas e prendas especiais</td>
 </tr>
 <tr>
-<td align="center">🔖</td>
-<td><b>Carimbos de bolachas com o teu logo</b></td>
-<td>Marcas, pastelarias, artesãos e pequenos negócios</td>
+<td align="center">💡</td>
+<td><b>Candeeiros e litofanias</b><br><sub>A tua foto aparece quando a luz se acende</sub></td>
+<td>Prendas com memórias, quartos e decoração</td>
 </tr>
 <tr>
 <td align="center">🎄</td>
-<td><b>Bolas de Natal personalizadas e caixas</b></td>
-<td>Prendas com nome, para família e amigos</td>
+<td><b>Natal personalizado</b><br><sub>Bolas com nome, anjos, estrela presépio</sub></td>
+<td>Família, amigos e animais de estimação</td>
 </tr>
 <tr>
-<td align="center">📚</td>
-<td><b>Porta-canetas e marcadores de página</b></td>
-<td>Para quem gosta de ler, estudar ou ter a secretária arrumada</td>
+<td align="center">🌹</td>
+<td><b>Prendas com palavras</b><br><sub>Rosas douradas, molduras com NFC, topos de bolo</sub></td>
+<td>Dia da Mãe, aniversários e datas especiais</td>
 </tr>
 <tr>
 <td align="center">🔑</td>
-<td><b>Porta-chaves</b><br><sub>Motas, capacetes, pesos de ginásio</sub></td>
-<td>Motards, desportistas e colecionadores</td>
+<td><b>Porta-chaves e acessórios</b><br><sub>Parafuso surpresa, QR, guarda-joias, brincos</sub></td>
+<td>Motards, desportistas e quem gosta de detalhes</td>
+</tr>
+<tr>
+<td align="center">🍪</td>
+<td><b>Cortadores de rissóis e bolachas</b></td>
+<td>Cozinha, festas e pastelarias</td>
 </tr>
 <tr>
 <td align="center">🎁</td>
@@ -65,7 +69,7 @@ Quando não estou a programar, a minha **Bambu Lab P1S** está a trabalhar. Cama
 
  💭 *Tens uma ideia na cabeça e não a encontras à venda em lado nenhum? Fala comigo: do desenho à peça final, faço-a à tua medida.*
 
-**👉 Espreita os trabalhos e faz a tua encomenda:**
+**👉 Vê o catálogo no [site da Cris3D](https://anacris37.github.io/Cris3D/) e faz a tua encomenda:**
 
 [<img width="60" height="60" alt="insta" src="https://github.com/user-attachments/assets/1ce39a18-628b-4444-a684-ca7c2ce4dea6" />](https://www.instagram.com/cris3d.print/)
 [<img width="60" height="60" alt="facebook" src="https://github.com/user-attachments/assets/2d4fc540-d2d6-49e3-9715-e355fcc3c05b" />](https://www.facebook.com/CRIS3DPRINT)
@@ -119,8 +123,8 @@ Quando não estou a programar, a minha **Bambu Lab P1S** está a trabalhar. Cama
 </tr>
 <tr>
 <td align="center">🖨️</td>
-<td><i>Em breve</i></td>
-<td>Um projeto que junte código e impressão 3D 👀</td>
+<td><a href="https://anacris37.github.io/Cris3D/">Site Cris3D</a></td>
+<td>Site da minha marca de impressão 3D, em HTML, CSS e Bootstrap (UC02833)</td>
 </tr>
 </table>
 
